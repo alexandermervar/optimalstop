@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 18 12:34:46 2019
 
-@author: Jim Sellhorn
+@author: Supreme_Leader
 
 Imagine an administrator who wants to hire the best secretary out of n rankable applicants for a position.
 The applicants are interviewed one by one in random order. 
