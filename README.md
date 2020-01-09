@@ -1,6 +1,6 @@
 # optimalstop
 
-## This program is used in oder to solve the optimal stop problem labeled here:
+## This program is used in order to solve the optimal stop problem labeled here:
 https://en.wikipedia.org/wiki/Optimal_stopping
 
 ## This is the original correspondence between myself and the author of the program:
